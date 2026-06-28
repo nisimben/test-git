@@ -1,11 +1,11 @@
-import {question} from 'readline-sync'
+import rl from 'readline-sync'
 
 
 
-const nameMomo = question("are you MOMO ? ")
+const nameMomo = rl.question("are you MOMO ? ")
 console.log(nameMomo);
 
-const name = question("are you NISIM  ?")
+const name = rl.question("are you NISIM  ?")
 
 console.log("something no matter ");
 
