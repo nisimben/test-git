@@ -7,4 +7,8 @@ console.log(nameMomo);
 
 const name = question("are you NISIM  ?")
 
+console.log("something no matter ");
+
+
+
 console.log(` hello ${name} !`);
